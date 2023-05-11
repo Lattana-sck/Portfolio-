@@ -214,7 +214,7 @@ export default function Home() {
                 src={web1}
                 alt="carlab"
               />
-              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
+              <div className="max-sm:h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Carlab
                 </h2>
@@ -231,7 +231,7 @@ export default function Home() {
                   PHP, Laravel, Javascrit, MySQL, AWS
                 </span>
               </div>
-              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
+              <div className="max-sm:h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   OpenSea Clone
                 </h2>
@@ -264,7 +264,7 @@ export default function Home() {
                 src={web3}
                 alt="munchies"
               />
-               <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
+               <div className="max-sm:h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Munchies
                 </h2>
@@ -280,7 +280,7 @@ export default function Home() {
                   Symfony, React.JS, MySQL, PaypalDeveloper
                 </span>
               </div>
-              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
+              <div className="max-sm:h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Spotify Clone
                 </h2>
@@ -313,7 +313,7 @@ export default function Home() {
                 src={web6}
                 alt="sezame"
               />
-              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
+              <div className="max-sm:h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Sezame
                 </h2>
