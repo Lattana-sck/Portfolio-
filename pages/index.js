@@ -160,10 +160,9 @@ export default function Home() {
                 en sorte qu&apos;elle devienne réalité.
               </p>
               <h4 className="py-4 text-teal-600">Langages & frameworks</h4>
-              <p className="text-gray-800 py-1">React.JS</p>
-              <p className="text-gray-800 py-1">Next.JS</p>
-              <p className="text-gray-800 py-1">MongoDB</p>
-              <p className="text-gray-800 py-1">Vercel</p>
+              <p className="text-gray-800 py-1">React.JS / Next.JS</p>
+              <p className="text-gray-800 py-1">Node.JS</p>
+              <p className="text-gray-800 py-1">MongoDB / Prisma</p>
             </div>
             <div className="text-center dark:shadow-slate-50 hover:shadow-2xl p-10 rounded-xl my-10 bg-slate-100 dark:bg-slate-50 flex-1">
               <Image
@@ -215,7 +214,7 @@ export default function Home() {
                 src={web1}
                 alt="carlab"
               />
-              <div className="bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-10 dark:text-slate-600">
+              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Carlab
                 </h2>
@@ -232,7 +231,7 @@ export default function Home() {
                   PHP, Laravel, Javascrit, MySQL, AWS
                 </span>
               </div>
-              <div className="bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-10 dark:text-slate-600">
+              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   OpenSea Clone
                 </h2>
@@ -265,7 +264,7 @@ export default function Home() {
                 src={web3}
                 alt="munchies"
               />
-              <div className="bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-10 dark:text-slate-600">
+               <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Munchies
                 </h2>
@@ -281,12 +280,12 @@ export default function Home() {
                   Symfony, React.JS, MySQL, PaypalDeveloper
                 </span>
               </div>
-              <div className="bg-slate-50 border-2 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-10 dark:text-slate-600">
+              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Spotify Clone
                 </h2>
                 <br />
-                <span>
+                <span className="overflow">
                   Duplique de la célèbre plateforme de streaming musical
                   Spotify. Après avoir lié son compte Spotify,
                   l&apos;utilisateur peut créer un compte, écouter de la
@@ -314,7 +313,7 @@ export default function Home() {
                 src={web6}
                 alt="sezame"
               />
-              <div className="bg-slate-50 border-2 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-10 dark:text-slate-600">
+              <div className="h-64 overflow-auto bg-slate-50 border-1 border-slate-300 dark:border-slate-700 dark:shadow-slate-400 shadow-2xl dark:shadow-lg rounded-2xl p-2 sm:p-10  dark:text-slate-600">
                 <h2 className="text-2xl text-center font-bold text-teal-500 dark:text-teal-400">
                   Sezame
                 </h2>
